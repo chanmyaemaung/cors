@@ -5,7 +5,7 @@ Simple CORS proxy
 ## Usage
 
 ```
-https://cors.chanmyaemaung.workers.dev/?u=https://chanmyaemaung.net
+  https://cors.chanlay.workers.dev?u=https://chanmyaemaung.net
 ```
 
 __WARNING:__
